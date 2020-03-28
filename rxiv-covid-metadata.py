@@ -8,7 +8,7 @@ import selenium
 from selenium import webdriver
 
 ## Dependencies as pip packages:
-# urllib.request (provided by urllib)
+# urllib3
 # python-dateutil
 # selenium
 
